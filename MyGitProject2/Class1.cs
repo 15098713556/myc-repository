@@ -10,6 +10,8 @@ namespace MyGitProject2
     {
         public  void test()
         {
+            int x = 0;
+            int y = 1;
 
         }
     }
