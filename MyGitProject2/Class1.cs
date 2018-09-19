@@ -12,8 +12,8 @@ namespace MyGitProject2
         {
             int x = 0;
             int y = 1;
+            int z = 2;
             int t = 9;
-
         }
     }
 }
