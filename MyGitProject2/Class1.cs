@@ -8,5 +8,9 @@ namespace MyGitProject2
 {
     class Class1
     {
+        public  void test()
+        {
+
+        }
     }
 }
